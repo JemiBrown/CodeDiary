@@ -1,2 +1,2 @@
 # CodeDiary
-Adventures in coding 
+Adventures in Coding 
