@@ -1,6 +1,8 @@
 # CodeDiary
 Adventures in Coding 
 
+8.20.21 - I finished my HTML section on FreeCodecamp. Still locked out of LinkedIn. 
+
 8.19.21 - Dabbled in some Javascript, Css and more HTML on Freecodecamp. Deven, Chris, and Alex came and spoke to our group and answered some questions for us. 
 
 8.18.21 - Got set up with a few more resources and then was able to get back on freecodecamp and do a few more lessons. I'm catching on to it pretty nicely once I understand what is being asked of me. I'm not going to say that I am majorly confident, but I am not discouraged that this is something I wont be able to catch on to. Still keeping an open mind about what job position will be the best fit for me but I am getting more and more excited to see what we start doing when Cultivating Coders comes in to start teaching my group next week. 
