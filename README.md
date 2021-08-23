@@ -1,6 +1,8 @@
 # CodeDiary
 Adventures in Coding 
 
+8.23.21 - Finally got back into my LinkedIn, Aaron, came into our group and had a power point for us with advice and tips. It was really cool and informative. "Don't Neglect your network" was the one line that we need to rememeber above anything else. Other advice was pick what you're good at and do it to pass on to someone else to do what you're not good at. Python will be a good code to learn. Put it on my short list. 
+
 8.20.21 - I finished my HTML section on FreeCodecamp. Still locked out of LinkedIn. 
 
 8.19.21 - Dabbled in some Javascript, Css and more HTML on Freecodecamp. Deven, Chris, and Alex came and spoke to our group and answered some questions for us. 
