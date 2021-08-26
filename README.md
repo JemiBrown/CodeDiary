@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+8.26.21 - Completed more CSS in FCC. 
+
 8.25.21 - Completed more CSS in FreeCodeCamp. :woman_technologist:
 
 8.24.21 - Working through the first section in FreeCodeCamp. Currently in the CSS section. Gaining confidence. Aaron is going to look into learning JavaScript with me. Should be interesting. 
