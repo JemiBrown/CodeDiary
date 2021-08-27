@@ -1,7 +1,9 @@
  # CodeDiary
 Adventures in Coding 
 
-8.26.21 - worked on more CSS in FCC. 
+8.27.21 - Completed the CSS section on FCC. :heavy_check_mark:
+
+8.26.21 - Worked on more CSS in FCC. 
 
 8.25.21 - Worked on more CSS in FreeCodeCamp. :woman_technologist:
 
