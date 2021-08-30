@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+8.30.21 - Today is the start date for Culitvating Coders and I am excited to see what they will be teaching us. Working on more lessons on FCC. 
+
 8.27.21 - Completed the CSS section on FCC. :heavy_check_mark:
 
 8.26.21 - Worked on more CSS in FCC. 
