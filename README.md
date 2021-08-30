@@ -1,7 +1,7 @@
  # CodeDiary
 Adventures in Coding 
 
-8.30.21 - Today is the start date for Culitvating Coders and I am excited to see what they will be teaching us. Working on more lessons on FCC. 
+8.30.21 - Today is the start date for Culitvating Coders and I am excited to see what they will be teaching us. Working on more lessons on FCC. Signed up on Codepen, discord and worked on some business card on codepen. 
 
 8.27.21 - Completed the CSS section on FCC. :heavy_check_mark:
 
