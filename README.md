@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+8.31.21 - Did my homework of hacking code of this clock on codepen. Did what I could to change mostly everything. 
+
 8.30.21 - Today is the start date for Culitvating Coders and I am excited to see what they will be teaching us. Working on more lessons on FCC. Signed up on Codepen, discord and worked on some business card on codepen. 
 
 8.27.21 - Completed the CSS section on FCC. :heavy_check_mark:
