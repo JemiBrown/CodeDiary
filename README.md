@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+9.1.21 - Spect time hacking a calculator on codepen. Changing colors, numbers to letters. The HTML and CSS section. 
+
 8.31.21 - Did my homework of hacking code of this clock on codepen. Did what I could to change mostly everything. 
 
 8.30.21 - Today is the start date for Culitvating Coders and I am excited to see what they will be teaching us. Working on more lessons on FCC. Signed up on Codepen, discord and worked on some business card on codepen. 
