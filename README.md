@@ -1,7 +1,9 @@
  # CodeDiary
 Adventures in Coding 
 
-9.1.21 - Spect time hacking a calculator on codepen. Changing colors, numbers to letters. The HTML and CSS section. 
+9.2.21 - Hacked code on codepen. Working with HTML and CSS. 
+
+9.1.21 - Spent time hacking a calculator on codepen. Changing colors, numbers to letters. The HTML and CSS section. 
 
 8.31.21 - Did my homework of hacking code of this clock on codepen. Did what I could to change mostly everything. 
 
