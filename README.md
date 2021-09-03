@@ -1,7 +1,7 @@
  # CodeDiary
 Adventures in Coding 
 
-9.2.21 - Hacked code on codepen. Working with HTML and CSS. 
+9.2.21 - Hacked code on codepen. Working with HTML and CSS. Built a local webpage. 
 
 9.1.21 - Spent time hacking a calculator on codepen. Changing colors, numbers to letters. The HTML and CSS section. 
 
