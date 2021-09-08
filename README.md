@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+9.7.21 - https://codepen.io/JemiB/pen/bGRwryz
+
 9.3.21 - Hack more html and css code on codepen. 
 
 9.2.21 - Hacked code on codepen. Working with HTML and CSS. Built a local webpage. 
