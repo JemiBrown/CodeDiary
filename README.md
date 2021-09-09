@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+9.9.21 - went through more slides. 
+
 9.7.21 - https://codepen.io/JemiB/pen/bGRwryz
 
 9.3.21 - Hack more html and css code on codepen. 
