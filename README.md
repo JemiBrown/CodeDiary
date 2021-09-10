@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+9.10.21 - built a landing page for Ice Event Center
+
 9.9.21 - went through more slides. 
 
 9.7.21 - https://codepen.io/JemiB/pen/bGRwryz
