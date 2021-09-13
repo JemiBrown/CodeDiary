@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+9.13.21 - Trying to figure out how to upload local websites that I've been creating, with no luck. 
+
 9.10.21 - built a landing page for Ice Event Center
 
 9.9.21 - went through more slides. 
