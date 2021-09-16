@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+9.16.21 - Messed with bootsrap templates. realized I have no clue how to upload stuff to GitHub. 
+
 9.13.21 - Trying to figure out how to upload local websites that I've been creating, with no luck. 
 
 9.10.21 - built a landing page for Ice Event Center
