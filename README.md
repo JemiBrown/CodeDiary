@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+10.18.21 - Presenting wireframing and mood boards. 
+
 10.14.21 - rebranded LA Lakers and uploaded it to bitbucket. 
 
 10.13.21 - learning UX/UI mood boards and logos
