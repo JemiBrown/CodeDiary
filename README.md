@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+10.26.21- UX/UI design on Moqups 
+
 10.18.21 - Presenting wireframing and mood boards. 
 
 10.14.21 - rebranded LA Lakers and uploaded it to bitbucket. 
