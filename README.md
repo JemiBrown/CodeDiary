@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+11.24.21 - Internship Meeting with Deep Fork. Plan to start 12/6.
+
 10.26.21- UX/UI design on Moqups 
 
 10.18.21 - Presenting wireframing and mood boards. 
