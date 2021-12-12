@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+12.12.21 - Can't start DFT waiting on paper work. Did a Techlahoma talk for a twitch stream. 
+
 11.24.21 - Internship Meeting with Deep Fork. Plan to start 12/6.
 
 10.26.21- UX/UI design on Moqups 
