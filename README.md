@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+12.28.21 - Started intership at DFT on 12/20. loving it. Built Battleship game, learning Javascript. Getting Familiar with Figma. 
+
 12.12.21 - Can't start DFT waiting on paper work. Did a Techlahoma talk for a twitch stream. 
 
 11.24.21 - Internship Meeting with Deep Fork. Plan to start 12/6.
