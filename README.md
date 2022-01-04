@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+1.4.21 - Javascript 
+
 12.30.21 - Sat in a meeting with (p) took notes about needs and problems they are having with their software. 
 
 12.29.21 - Fixed a computer that was stuck in a reboot loop. Booted it from USB drive. M.S. Added me to more basecamp projects. Preparing me for project managemnt. 
