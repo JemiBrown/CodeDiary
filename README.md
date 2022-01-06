@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+1.6.21 - PM stuff with City of Stroud. 
+
 1.5.21 -Project managment stuff
 
 1.4.21 - Javascript 
