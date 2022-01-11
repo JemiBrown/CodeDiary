@@ -1,6 +1,8 @@
  # CodeDiary
 Adventures in Coding 
 
+1.11.22 - PM with SSCN, finding content writers. working on goals of DFT website. 
+
 1.10.21 - Project manangement. KPI and Harvest. 
 
 1.6.21 - PM stuff with City of Stroud. 
